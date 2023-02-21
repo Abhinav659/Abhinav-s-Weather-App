@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Abhinav-s-Weather-App/static/css/main.5b19afd9.css",
+    "main.js": "/Abhinav-s-Weather-App/static/js/main.08ea28e7.js",
+    "static/media/mountains5.gif": "/Abhinav-s-Weather-App/static/media/mountains5.bb15725b63dfd74b150a.gif",
+    "static/media/logo.png": "/Abhinav-s-Weather-App/static/media/logo.6a8c5d788e7847e359f6.png",
+    "static/media/thunderstorm.png": "/Abhinav-s-Weather-App/static/media/thunderstorm.88019f6d861cd37b848a.png",
+    "static/media/snow.png": "/Abhinav-s-Weather-App/static/media/snow.b97ad1a00e09562063b6.png",
+    "static/media/shower_rain.png": "/Abhinav-s-Weather-App/static/media/shower_rain.54cfd202df386e981e62.png",
+    "static/media/rain.png": "/Abhinav-s-Weather-App/static/media/rain.a73af06652aa9c94656c.png",
+    "static/media/scattered_clouds.png": "/Abhinav-s-Weather-App/static/media/scattered_clouds.376170b91a5752dea3bd.png",
+    "static/media/few_clouds.png": "/Abhinav-s-Weather-App/static/media/few_clouds.9beba9e988ec5dacffdb.png",
+    "static/media/mist.png": "/Abhinav-s-Weather-App/static/media/mist.d016d8f8babd4f40f2cc.png",
+    "static/media/clear_sky.png": "/Abhinav-s-Weather-App/static/media/clear_sky.68280eb33c56ad998b21.png",
+    "static/media/broken_clouds.png": "/Abhinav-s-Weather-App/static/media/broken_clouds.c326e84ec71596ca3682.png",
+    "index.html": "/Abhinav-s-Weather-App/index.html",
+    "main.5b19afd9.css.map": "/Abhinav-s-Weather-App/static/css/main.5b19afd9.css.map",
+    "main.08ea28e7.js.map": "/Abhinav-s-Weather-App/static/js/main.08ea28e7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b19afd9.css",
+    "static/js/main.08ea28e7.js"
+  ]
+}

@@ -67,7 +67,7 @@ const Weather = () => {
     }
     
     return (
-        <div className="container">
+        <div className="container" onLoad= {() => this.getWeatherData(city)>
             <input type="text" value={city} onChange={(e)=>{setCity(e.target.value)}} placeholder='city...' className='m-3 p-2'/>
             <button onClick={(e)=>{getWeatherData(city)}} className="btn btn-primary" style={{backgroundColor:"#67afab", fontWeight:"bold", fontSize: 20, border: 0}}>Get Weather</button>
 

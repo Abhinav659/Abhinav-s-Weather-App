@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import '../App.css';
 import axios from 'axios'
 import '../../node_modules/bootstrap/dist/css/bootstrap.min.css';
-
+window.onload = getWeatherData(city);
 const Weather = () => {
     const [city, setCity] = useState("Delhi");
     const [temp, setTemp] = useState("");

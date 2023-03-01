@@ -5,11 +5,11 @@ import '../../node_modules/bootstrap/dist/css/bootstrap.min.css';
 
 const Weather = () => {
     const [city, setCity] = useState("Delhi");
-    const [temp, setTemp] = useState("");
-    const [min, setMin] = useState("");
-    const [max, setMax] = useState("");
-    const [description, setDescription] = useState("");
-    var [icon, setIcon] = useState("../Assets/icons/clear_sky.png");
+    const [temp, setTemp] = useState("19°C");
+    const [min, setMin] = useState("19°C");
+    const [max, setMax] = useState("19°C");
+    const [description, setDescription] = useState("haze");
+    var [icon, setIcon] = useState(require("../Assets/icons/clear_sky.png"));
     const [showMyComponent, setshowMyComponent] = useState(false);
     
     let time = new Date().toLocaleTimeString();
